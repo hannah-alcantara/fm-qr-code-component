@@ -16,8 +16,8 @@ Use any tools you like to help you complete the challenge. So if you've got some
 
 ### 🔗 Links
 
-- Solution URL: (https://github.com/hannah-alcantara/fm-qr-code-component)
-- Live Site URL: (https://hannah-alcantara.github.io/fm-qr-code-component/)
+- Solution URL: https://github.com/hannah-alcantara/fm-qr-code-component
+- Live Site URL: https://hannah-alcantara.github.io/fm-qr-code-component/
 
 ### 🛠️ Built with
 
