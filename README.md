@@ -24,7 +24,6 @@ Use any tools you like to help you complete the challenge. So if you've got some
 - Semantic HTML5 markup
 - SCSS
 - Flexbox
-- [Styled Components](https://styled-components.com/) - For styles
 
 ## 👩‍💻 Author
 
