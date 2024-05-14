@@ -25,7 +25,5 @@ Use any tools you like to help you complete the challenge. So if you've got some
 - SCSS
 - Flexbox
 
-## 👩‍💻 Author
-
-- Website - [Hannah Alcantara](#)
-- Frontend Mentor - [@hannah-alcantara](https://www.frontendmentor.io/profile/hannah-alcantara)
+## 👩‍💻 Author - Hannah Alcantara
+- [Frontend Mentor](https://www.frontendmentor.io/profile/hannah-alcantara)
